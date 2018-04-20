@@ -48,6 +48,11 @@ export default class extends React.Component {
                   Ethmoji
                 </a>
               </li>
+              <li>
+                <a target="_blank" href="https://parr.io">
+                  Parr
+                </a>
+              </li>
             </ul>
             <p>
               Want to work with us? Drop us a note at{" "}
@@ -71,7 +76,7 @@ export default class extends React.Component {
             height: 100%;
             overflow-y: scroll;
             background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
-            background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+
             z-index: -1;
           }
           .wrapper {

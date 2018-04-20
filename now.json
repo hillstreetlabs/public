@@ -1,0 +1,6 @@
+{
+  "alias": ["hillstreetlabs.com", "www.hillstreetlabs.com"],
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
