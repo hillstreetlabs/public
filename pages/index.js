@@ -53,6 +53,13 @@ export default class extends React.Component {
                   Parr
                 </a>
               </li>
+              <li
+                text={
+                  "Because Erasure is about time-locking data. Hehe, get it?"
+                }
+              >
+                A yet-to-be-revealed, secret project
+              </li>
             </ul>
             <p>
               Want to work with us? Drop us a note at{" "}
