@@ -53,6 +53,11 @@ export default class extends React.Component {
                   Parr
                 </a>
               </li>
+              <li>
+                <a target="_blank" href="https://kimono.network">
+                  Kimono
+                </a>
+              </li>
               <li
                 text={
                   "Because Erasure is about time-locking data. Hehe, get it?"
