@@ -52,11 +52,29 @@ export default class extends React.Component {
                 <a target="_blank" href="https://parr.io">
                   Parr
                 </a>
+                <small>
+                  {" "}
+                  <a
+                    target="_blank"
+                    href="https://medium.com/@pfh/request-for-feedback-parr-a-query-tool-for-ethereum-3bee790e389e"
+                  >
+                    read more
+                  </a>
+                </small>
               </li>
               <li>
                 <a target="_blank" href="https://kimono.network">
                   Kimono
                 </a>
+                <small>
+                  {" "}
+                  <a
+                    target="_blank"
+                    href="https://medium.com/@pfh/kimono-trustless-secret-sharing-using-time-locks-on-ethereum-8e7e696494d"
+                  >
+                    read more
+                  </a>
+                </small>
               </li>
               <li
                 text={
