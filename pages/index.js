@@ -32,6 +32,7 @@ export default class extends React.Component {
             <img src="/static/street.png" />
           </div>
           <div>
+            <br />
             <h3>Hill Street Labs.</h3>
             <p>A development studio in San Francisco, CA.</p>
             <ul>
@@ -76,12 +77,10 @@ export default class extends React.Component {
                   </a>
                 </small>
               </li>
-              <li
-                text={
-                  "Because Erasure is about time-locking data. Hehe, get it?"
-                }
-              >
-                A yet-to-be-revealed, secret project
+              <li>
+                <a target="_blank" href="https://veil.market">
+                  Veil
+                </a>
               </li>
             </ul>
             <p>
@@ -127,6 +126,8 @@ export default class extends React.Component {
           .wrapper h3 {
             font-size: 30px;
             line-height: 1.4;
+            margin: 0;
+            margin-top: 10px;
           }
           .wrapper a {
             color: blue;
