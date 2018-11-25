@@ -81,6 +81,29 @@ export default class extends React.Component {
                 <a target="_blank" href="https://veil.market">
                   Veil
                 </a>
+                <small>
+                  {" "}
+                  <a
+                    target="_blank"
+                    href="https://medium.com/veil-blog"
+                  >
+                    read more
+                  </a>
+                </small>
+              </li>
+              <li>
+                <a target="_blank" href="https://saytoshi.com">
+                  SayToshi
+                </a>
+                <small>
+                  {" "}
+                  <a
+                    target="_blank"
+                    href="https://devpost.com/software/saytoshi"
+                  >
+                    read more
+                  </a>
+                </small>
               </li>
             </ul>
             <p>
