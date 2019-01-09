@@ -78,15 +78,17 @@ export default class extends React.Component {
                 </small>
               </li>
               <li>
-                <a target="_blank" href="https://veil.market">
+                <a target="_blank" href="https://erasure.xxx">
+                  Erasure
+                </a>
+              </li>
+              <li>
+                <a target="_blank" href="https://veil.co">
                   Veil
                 </a>
                 <small>
                   {" "}
-                  <a
-                    target="_blank"
-                    href="https://medium.com/veil-blog"
-                  >
+                  <a target="_blank" href="https://medium.com/veil-blog">
                     read more
                   </a>
                 </small>
